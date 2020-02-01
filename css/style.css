@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0; 
+    background: gray;
+}
+
+#app {
+    position: relative;
+    width: 800px;
+    height: 100%;
+    margin: auto;
+    text-align: center;
+    margin: auto;
+    background: white;
+}
+
+.item {
+    display: inline-block;
+}
