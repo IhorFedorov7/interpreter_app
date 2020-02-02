@@ -17,3 +17,7 @@ body {
 .item {
     display: inline-block;
 }
+
+.error {
+    border: 2px solid red;
+}
