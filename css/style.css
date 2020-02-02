@@ -10,7 +10,6 @@ body {
     height: 100%;
     margin: auto;
     text-align: center;
-    margin: auto;
     background: white;
 }
 
@@ -20,4 +19,14 @@ body {
 
 .error {
     border: 2px solid red;
+}
+
+#table {
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
+
+.enr-word {
+    font-weight: 700;
 }
